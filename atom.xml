@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beiyan-kitagari.github.io</id>
     <title>北雁橋・Kita-karibashi</title>
-    <updated>2020-04-26T03:47:44.316Z</updated>
+    <updated>2020-04-26T09:01:57.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://beiyan-kitagari.github.io"/>
     <link rel="self" href="https://beiyan-kitagari.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://beiyan-kitagari.github.io/images/avatar.png</logo>
     <icon>https://beiyan-kitagari.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 北雁橋・Kita-karibashi</rights>
+    <entry>
+        <title type="html"><![CDATA[NVM：安装多个版本的NPM，并在不同版本之间切换的命令行工具]]></title>
+        <id>https://beiyan-kitagari.github.io/post/nvman-zhuang-duo-ge-ban-ben-de-npmbing-zai-bu-tong-ban-ben-zhi-jian-qie-huan-de-ming-ling-xing-gong-ju/</id>
+        <link href="https://beiyan-kitagari.github.io/post/nvman-zhuang-duo-ge-ban-ben-de-npmbing-zai-bu-tong-ban-ben-zhi-jian-qie-huan-de-ming-ling-xing-gong-ju/">
+        </link>
+        <updated>2020-04-26T05:18:06.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://beiyan-kitagari.github.io/post/hello-gridea/</id>
