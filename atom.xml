@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beiyan-kitagari.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-26T03:03:17.081Z</updated>
+    <title>北雁橋・Kita-karibashi</title>
+    <updated>2020-04-26T03:07:55.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://beiyan-kitagari.github.io"/>
     <link rel="self" href="https://beiyan-kitagari.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://beiyan-kitagari.github.io/images/avatar.png</logo>
     <icon>https://beiyan-kitagari.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 北雁橋・Kita-karibashi</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://beiyan-kitagari.github.io/post/hello-gridea/</id>
